@@ -16,7 +16,7 @@ npm init -y
 npm install ws
 ```
 3. `index.js`を書き換える
-projectid,username,passwordを自分のものに書き換える\n
+projectid,username,passwordを自分のものに書き換える<br>
 `tasks()`の関数の中に自分好みのコードを書く
 
 ### 詳しい説明は`desc.txt`にあります。
