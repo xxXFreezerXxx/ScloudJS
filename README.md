@@ -19,4 +19,4 @@ npm install ws
 projectid,username,passwordを自分のものに書き換える
 `tasks()`の関数の中に自分好みのコードを書く
 
-## 詳しい説明は`desc.txt`にあります。
+# 詳しい説明は`desc.txt`にあります。
