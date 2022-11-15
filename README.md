@@ -1,4 +1,5 @@
-This is an old ScloudJS so you should use [New ScloudJS](https://github.com/xxXFreezerXxx/newscloudjs) Instead of this. I'll no longer support this old scloudJS anymore.   これは古いScloudJSなので、新しい[New ScloudJS](https://github.com/xxXFreezerXxx/newscloudjs) を代わりに使ってください。このscloudjsはもうサポートしません。  
+This is an old ScloudJS so you should use [New ScloudJS](https://github.com/xxXFreezerXxx/newscloudjs) Instead of this. I'll no longer support this old scloudJS anymore.   
+これは古いScloudJSなので、新しい[New ScloudJS](https://github.com/xxXFreezerXxx/newscloudjs) を代わりに使ってください。このscloudjsはもうサポートしません。  
 
 # ScloudJS　v0.0b
 nodejsを使用して、Scratchのクラウド変数を監視、変更ができるライブラリです。
